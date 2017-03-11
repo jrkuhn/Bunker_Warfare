@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bunker Warfare.CSharp.Plugins", "Bunker Warfare.CSharp.Plugins.csproj", "{AAF9F324-6843-5890-9562-F6B48A22E22D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bunker Warfare.CSharp", "Bunker Warfare.CSharp.csproj", "{ED8403E5-8D7D-558D-428D-1F2B21FC0A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bunker Warfare.CSharp.Editor.Plugins", "Bunker Warfare.CSharp.Editor.Plugins.csproj", "{2E127790-AAD6-A23A-BD81-D3821E9517CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF9F324-6843-5890-9562-F6B48A22E22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF9F324-6843-5890-9562-F6B48A22E22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF9F324-6843-5890-9562-F6B48A22E22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF9F324-6843-5890-9562-F6B48A22E22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8403E5-8D7D-558D-428D-1F2B21FC0A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8403E5-8D7D-558D-428D-1F2B21FC0A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8403E5-8D7D-558D-428D-1F2B21FC0A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8403E5-8D7D-558D-428D-1F2B21FC0A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E127790-AAD6-A23A-BD81-D3821E9517CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E127790-AAD6-A23A-BD81-D3821E9517CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E127790-AAD6-A23A-BD81-D3821E9517CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E127790-AAD6-A23A-BD81-D3821E9517CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
