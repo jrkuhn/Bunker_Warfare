@@ -1,10 +1,10 @@
 # Bunker_Warfare
 A dual-stick shooter created using Unity3D and C# in under 72 hours for Iowa State University's HackISU.
 
-To play the game:
--Control the player using the W,S,A,D keys to move
--Aim the player's weapon using the mouse, and left-click to fire
--Shoot the enemies and survive earning as much score as you can
+To play the game:  
+-Control the player using the W,S,A,D keys to move  
+-Aim the player's weapon using the mouse, and left-click to fire  
+-Shoot the enemies and survive earning as much score as you can  
 
 This project was developed in Unity3D, and scripted in C#. Most of the models including the map were designed in Google SketchUp.
 Enemies spawn at a constant randomly across several predetermined positions around the map.
